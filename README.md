@@ -1,4 +1,4 @@
-# Nutrition Analysis Predictor - Predictive Modelling in Nutrition 
+# Nutrition Analysis & Body Weight - Predictive Modelling in Nutrition 
 
 This repository is an exploration of predictive models in the realm of nutrition and wellness. We have developed various models to predict Body Mass Index (BMI) based on various nutrition and lifestyle factors. 
 
